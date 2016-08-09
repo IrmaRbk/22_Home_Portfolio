@@ -1,0 +1,74 @@
+/* comienza mi HEADER */
+
+.negro{
+	background-color: black;
+}
+h1{
+	color: white; 
+}
+.menu{
+	text-decoration: none;
+	display: inline-block;
+
+}
+
+/* comienza mi SECTION */
+
+.city{
+	background-image: url(../img/header.png);
+	height:400px ;
+	width: 350px;
+	margin-top: 30px;
+}
+h2{
+	padding-top: 30px;
+}
+
+.botonGris{
+	margin-top: 50px;
+	border-radius: 15px;
+	padding: 8px ;
+}
+
+.girl{
+	background-image: url(../img/main-pic.png);
+	height:250px ;
+	width: 400px;
+	margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* comienza mi FOOTER */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
