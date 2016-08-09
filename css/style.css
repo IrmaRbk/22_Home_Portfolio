@@ -1,16 +1,5 @@
-/* comienza mi HEADER */
+/* comienza mi HEADER  EN STYLESHEET COMMON.CSS*/
 
-.negro{
-	background-color: black;
-}
-h1{
-	color: white; 
-}
-.menu{
-	text-decoration: none;
-	display: inline-block;
-
-}
 
 /* comienza mi SECTION */
 
@@ -33,7 +22,7 @@ h2{
 .girl{
 	background-image: url(../img/main-pic.png);
 	height:250px ;
-	width: 400px;
+	width: 530px;
 	margin-top: 30px;
 }
 

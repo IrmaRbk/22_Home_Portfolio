@@ -1,0 +1,14 @@
+
+/* comienza mi header */
+
+.negro{
+	background-color: black;
+}
+h1{
+	color: white; 
+}
+.menu{
+	text-decoration: none;
+	display: inline-block;
+
+}
