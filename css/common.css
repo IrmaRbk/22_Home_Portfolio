@@ -3,6 +3,10 @@
 
 .negro{
 	background-color: black;
+	font-weight: bold;
+}
+.fuente{
+	font-family: verdana, courier ;
 }
 h1{
 	color: white; 
@@ -10,5 +14,7 @@ h1{
 .menu{
 	text-decoration: none;
 	display: inline-block;
+	font-size: 30px ;
+	
 
 }
